@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 🖖
 #### Well, I kind of make some code one in a while, JavaScript mostly because, you know, love is ✨blind✨
 - 🌿 Currently working on 100 days of code, improving my Vue.js, React.js and TypeScript skills
 - 🍄 Also finishing my Uni Project on the recognition of exons and introns on fungi RNA, using Python
