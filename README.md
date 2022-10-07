@@ -2,7 +2,7 @@
 
 Well, I kind of make some code once in a while, JavaScript mostly because, you know, love is ✨blind✨ <br>
 - 🎓 Currently studying Computer Science at State University of Maringá (UEM)
-- 🌿 Improving my Vue.js, React.js and TypeScript skills <br>
+- 🌿 Improving my React.js, TypeScript and starting my journey into backend learning PHP <br>
 - 🍄 Also finishing my Uni Project on the recognition of exons and introns on fungi RNA, using Python <br>
 - 🤖 Chances I'm doing another Discord Bot <br>
 <br><a href="mailto:anduca.sarah@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
