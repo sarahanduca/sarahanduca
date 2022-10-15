@@ -1,4 +1,5 @@
 ## greetings, internet traveler 🧙‍♀️ 
+`she/her`
 
 web wizard coding JavaScript mostly because, you know, love is ✨blind✨ <br>
 - 🎓 currently studying Computer Science at State University of Maringá (UEM)
