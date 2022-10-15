@@ -7,7 +7,7 @@ web wizard coding JavaScript mostly because, you know, love is ✨blind✨ <br>
 - 🍄 also finishing my Uni Project on the recognition of exons and introns on fungi RNA, using Python and machine learning! <br>
 - 🤖 chances I'm doing another Discord Bot <br>
 ---
-🛠 Languages and tools
+### 🛠 Languages and tools
 
 
 
@@ -26,6 +26,7 @@ web wizard coding JavaScript mostly because, you know, love is ✨blind✨ <br>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
+
 <br><a href="mailto:anduca.sarah@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
  [![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-anduca/)
  
