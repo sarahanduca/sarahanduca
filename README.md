@@ -1,10 +1,10 @@
 ## greetings, internet traveler 🧙‍♀️ 
 
 web wizard coding JavaScript mostly because, you know, love is ✨blind✨ <br>
-- 🎓 Currently studying Computer Science at State University of Maringá (UEM)
-- 🌿 Improving my React.js, TypeScript and starting my journey into backend learning PHP <br>
-- 🍄 Also finishing my Uni Project on the recognition of exons and introns on fungi RNA, using Python <br>
-- 🤖 Chances I'm doing another Discord Bot <br>
+- 🎓 currently studying Computer Science at State University of Maringá (UEM)
+- 🌿 improving my React.js, TypeScript and starting my journey into backend learning PHP <br>
+- 🍄 also finishing my Uni Project on the recognition of exons and introns on fungi RNA, using Python and machine learning! <br>
+- 🤖 chances I'm doing another Discord Bot <br>
 ---
 🛠 Languages and tools
 
