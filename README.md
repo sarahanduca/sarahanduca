@@ -1,6 +1,6 @@
-## Hi there 🖖
+## greetings, internet traveler 🧙‍♀️ 
 
-Well, I kind of make some code once in a while, JavaScript mostly because, you know, love is ✨blind✨ <br>
+web wizard coding JavaScript mostly because, you know, love is ✨blind✨ <br>
 - 🎓 Currently studying Computer Science at State University of Maringá (UEM)
 - 🌿 Improving my React.js, TypeScript and starting my journey into backend learning PHP <br>
 - 🍄 Also finishing my Uni Project on the recognition of exons and introns on fungi RNA, using Python <br>
