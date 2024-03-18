@@ -4,8 +4,8 @@ I'm just a girl, web wizard coding JavaScript mostly because, you know, love is 
 - 🎓 currently studying Computer Science at State University of Maringá (UEM)
 - 🌿 improving my Next.js, TypeScript and starting my journey into backend learning Node and SQL <br>
 - 📚 lover of greek mythology, a good HQ, pixel art and the sims 
-- 🤖 Studying game dev as hobby <br>
-- ✨ Currently learning Go and Java for fun
+- 🤖 atudying game dev as hobby <br>
+- ✨ learning Go and Java for fun
 
 
 <br><a href="mailto:anduca.sarah@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
