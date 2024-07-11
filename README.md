@@ -1,6 +1,6 @@
 ## greetings, internet traveler 🧙‍♀️ 
 
-I'm just a girl, web wizard coding JavaScript mostly because, you know, love is ✨blind✨ <br>
+I'm just a girl, web wizard coding ✨pretty✨ stuff<br>
 - 🎓 major in Computer Science at State University of Maringá (UEM)
 - 🌿 improving my Next.js, TypeScript and starting my journey into backend learning Node and SQL <br>
 - 📚 lover of greek mythology, a good HQ, pixel art and the sims 
