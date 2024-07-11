@@ -6,6 +6,7 @@ I'm just a girl, web wizard coding ✨pretty✨ stuff<br>
 - 📚 lover of greek mythology, a good HQ, pixel art and the sims 
 - 🤖 studying game dev as hobby <br>
 - ✨ learning Go and Java for fun
+- 🎨 kind of obsessed with the coomplex part of CSS 
 
 
  
