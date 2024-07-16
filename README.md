@@ -3,7 +3,7 @@
 I'm just a girl, web wizard coding ✨pretty✨ stuff<br>
 - 🎓 major in Computer Science at State University of Maringá (UEM)
 - 🌿 improving my Next.js, TypeScript and starting my journey into backend learning Node and SQL
-- 📚 lover of greek mythology, a good HQ, pixel art and the sims 
+- 📚 lover of greek mythology, boardgames, a good HQ, pixel art and the sims 
 - 🤖 studying game dev as hobby
 - ✨ learning Go and Java for fun
 - 🎨 kind of obsessed with the complex part of CSS 
