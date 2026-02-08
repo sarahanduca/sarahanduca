@@ -1,6 +1,6 @@
 ## greetings, internet traveler 🧙‍♀️ 
 
-![](https://komarev.com/ghpvc/?user=sarahanduca&style=flat&label=travelers)
+<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fsarahanduca&label=travelers&labelColor=93C572&style=flat" alt="profiles-views">
 
 I'm just a girl, web wizard coding ✨pretty✨ stuff<br>
 - 🎓 major in Computer Science at State University of Maringá (UEM)
