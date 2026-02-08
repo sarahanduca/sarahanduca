@@ -1,5 +1,7 @@
 ## greetings, internet traveler 🧙‍♀️ 
 
+![](https://komarev.com/ghpvc/?user=sarahanduca&style=flat&label=travelers)
+
 I'm just a girl, web wizard coding ✨pretty✨ stuff<br>
 - 🎓 major in Computer Science at State University of Maringá (UEM)
 - 🌿 improving my Next.js, TypeScript and starting my journey into backend learning Node and SQL
